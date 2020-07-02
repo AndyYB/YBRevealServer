@@ -18,5 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
+  "libraries": [
+    "c++",
+    "sqlite3.0",
+    "z"
+  ],
+  "frameworks": "RevealServer",
   "source_files": "YBRevealServer/Classes/**/*"
 }
