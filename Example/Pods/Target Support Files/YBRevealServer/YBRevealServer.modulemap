@@ -1,0 +1,6 @@
+framework module YBRevealServer {
+  umbrella header "YBRevealServer-umbrella.h"
+
+  export *
+  module * { export * }
+}

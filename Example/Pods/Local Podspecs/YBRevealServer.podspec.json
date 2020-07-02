@@ -1,0 +1,22 @@
+{
+  "name": "YBRevealServer",
+  "version": "0.1.0",
+  "summary": "A short description of YBRevealServer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AndyYB/YBRevealServer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AndyYB": "970964132@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/AndyYB/YBRevealServer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YBRevealServer/Classes/**/*"
+}
